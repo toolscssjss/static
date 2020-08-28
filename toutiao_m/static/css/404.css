@@ -1,0 +1,75 @@
+.col02 {
+  width: 998px;
+  height: 350px;
+  background: #f7f7f7;
+  border: 1px solid #e8e8e8;
+  margin: 0 auto;
+  margin-bottom: 0px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.box400 {
+  float: left;
+  width: 400px;
+  padding: 18px 40px 0 40px;
+}
+
+.box400 h3 {
+  font: bold 14px Microsoft Yahei;
+  color: #2b2b2b;
+  border-bottom: 1px solid #e5e5e5;
+  height: 24px;
+  margin-bottom: 10px;
+}
+
+.box400 h3 span {
+  float: left;
+  border-bottom: 2px solid #bd0014;
+  height: 22px;
+}
+
+.list li {
+  list-style: none;
+  height: 35px;
+  line-height: 35px;
+  text-align: left;
+  background: url(../images/s_11.gif) no-repeat 5px 10px;
+}
+
+.list li span.no1 {
+  font-size: 18px;
+  font-weight: bold;
+  float: left;
+  width: 16px;
+  height: 23px;
+  color: #ba2636;
+  text-align: left;
+  margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+}
+
+.list li a:link, .list04 li a:visited {
+  color: #004276;
+}
+
+a:link {
+  color: #004276;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list li span.no {
+  font-size: 18px;
+  font-weight: bold;
+  float: left;
+  width: 16px;
+  height: 23px;
+  color: #666666;
+  text-align: left;
+  margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="author" content="娱乐圈">
+<title>娱乐圈-最专业的明星娱乐资讯网站</title>
+<meta name="keywords" content="娱乐圈,明星八卦新闻,明星资料,影视音乐" />
+<meta name="description" content="娱乐圈提供最全明星资料及海量最新娱乐八卦新闻，明星电影、电视剧、音乐作品资讯等" />
+<link rel="icon" type="image/x-icon" href="http://img.ylq.com/statics/images/favicon.ico" />
+<link href="http://img.ylq.com/mobile/css/common.css" rel="stylesheet">
+<link href="http://img.ylq.com/mobile/css/2016index.css" rel="stylesheet">
+<link href="http://img.ylq.com/mobile/css/swiper-3.3.1.min.css" rel="stylesheet">
+<script type="text/javascript" src="http://img.ylq.com/mobile/js/jquery.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/mobile/js/basic.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/mobile/js/m2016_index.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/mobile/js/swiper-3.3.1.jquery.min.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/statics/js/union.js"></script>
+</head>
+<body>
+<header class="header">
+	<h1 class="logo"><a href="/">娱乐圈</a></h1>
+  <div class="search_btn"><i class="sIcon"></i><span>请输入关键字</span></div>
+  <div class="navigation"><em></em><i></i></div>
+  <div class="searchBox hide">
+    <form action="http://s.ylq.com/cse/search" method="get">
+      <input type="text" name="q" placeholder="请输入关键字" class="search">
+	  <input type="hidden" name="s" value="9680871297657654260">
+	  <input type="hidden" name="entry" value="1">
+      <button class="sBtn d_btn">搜索</button>
+      <button class="sBtn c_btn">取消</button>
+    </form>
+  </div>
+  <div class="nav_content"> <i class="nc_icon"></i>
+    <ul>
+      <li><a href="/">首页</a></li>
+      <li><a href="/zt">专题</a></li>
+      <li><a href="/redian">热点</a></li>
+      <li><a href="/baike">百科</a></li>
+      <li><a href="/top">排行</a></li>
+    </ul>
+    <dl class="grayBg">
+      <dt><a href="/news">星闻</a></dt>
+      <dd><a href="/news/star.html">明星</a></dd>
+      <dd><a href="/news/film.html">电影</a></dd>
+      <dd><a href="/news/tv.html">电视</a></dd>
+      <dd><a href="/news/music.html">音乐</a></dd>
+    </dl>
+    <dl>
+		<dt><a href="/star">明星</a></dt>
+		  <dd><a href="/star">档案</a></dd>
+		  <dd><a href="/star/mxwb">微博</a></dd>
+		  <dd><a href="/star/shengao">身高</a></dd>
+    </dl>
+    <dl class="grayBg">
+		<dt><a href="/pic">图片</a></dt>
+		<dd><a href="/pic/xiezhen.html">写真</a></dd>
+		<dd><a href="/pic/bizhi.html">壁纸</a></dd>
+		<dd><a href="/pic/mote.html">模特</a></dd>
+		<dd><a href="/pic/gaoqing.html">高清</a></dd>
+		<dd><a href="/pic/yingshi.html">影视</a></dd>
+		<dd><a href="/pic/zazhi.html">杂志</a></dd>
+		<dd><a href="/pic/huodong.html">活动</a></dd>
+		<dd><a href="/pic/shenghuo.html">生活</a></dd>
+		<dd><a href="/pic/zhaopian.html">老照片</a></dd>
+		<dd><a href="/pic/yanchanhui.html">演唱会</a></dd>
+    </dl>
+    <dl>
+      <dt><a href="javascript:void(0);">影视</a></dt>
+		<dd><a href="/v/list-films.html">电影</a></dd>
+		<dd><a href="/v/list-tv.html">电视</a></dd>
+		<dd><a href="/v/list-variety.html">综艺</a></dd>
+		<dd><a href="/v/list-anime.html">动漫</a></dd>
+
+    </dl>
+  </div>
+</header>
+<div class="black_overlay"></div>
+<!--导航-->
+<nav class="nav">
+  <ul>
+    <li><a href="/">首页</a></li>
+    <li><a href="/news">星闻</a></li>
+    <li><a href="/star">明星</a></li>
+    <li><a href="/pic">图片</a></li>
+    <li><a href="/v">影视</a></li>
+	<li><a href="/zt">专题</a></li>
+    <li class="tMore"><i></i></li>
+    <li><a href="/redian">热点</a></li>
+	<li><a href="/baike">百科</a></li>
+    <li><a href="/top">排行</a></li>
+  </ul>
+</nav>
+<!--/#header-->
+<!--轮播图-->
+<div class="focusFigure">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">                   <div class="swiper-slide"><a href="/news/12-90689.html" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因"><img src="http://img.ylq.com/2019/0701/thumb_640_240_20190701093603275.jpg" alt="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因">
+        <p>韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因</p>
+        </a></div>
+                  <div class="swiper-slide"><a href="/news/18-90688.html" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言"><img src="http://img.ylq.com/2019/0701/thumb_640_240_20190701091438766.jpg" alt="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言">
+        <p>《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言</p>
+        </a></div>
+                  <div class="swiper-slide"><a href="/news/16-90687.html" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋"><img src="http://img.ylq.com/2019/0628/thumb_640_240_20190628042918156.jpg" alt="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋">
+        <p>《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋</p>
+        </a></div>
+                  <div class="swiper-slide"><a href="/news/16-90685.html" title="范冰冰李晨感情回顾：经历风雨我们不再是我们"><img src="http://img.ylq.com/2019/0628/thumb_640_240_20190628102135902.jpg" alt="范冰冰李晨感情回顾：经历风雨我们不再是我们">
+        <p>范冰冰李晨感情回顾：经历风雨我们不再是我们</p>
+        </a></div>
+                  <div class="swiper-slide"><a href="/news/16-90684.html" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳"><img src="http://img.ylq.com/2019/0628/thumb_640_240_20190628091237533.jpg" alt="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳">
+        <p>日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳</p>
+        </a></div>
+             </div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+<script>        
+  var mySwiper = new Swiper ('.focusFigure .swiper-container', {
+    loop: true,
+    pagination: '.swiper-pagination',
+    paginationType:'fraction',
+  })        
+</script>
+<div class="wrap n_wrap in_wrap">
+  <section>
+    <h2>今日头条</h2>
+  </section>
+        <figure> <a href="/news/12-90689.html" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因"><img src="http://img.ylq.com/2019/0701/thumb_160_120_20190701093603275.jpg" alt="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因"></a>
+    <figcaption>
+      <h3><a href="/news/12-90689.html" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因">韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因</a></h3>
+      <time datetime="2019-07-01 09:33:33"></time>
+    </figcaption>
+  </figure>
+      <figure> <a href="/news/18-90688.html" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言"><img src="http://img.ylq.com/2019/0701/thumb_160_120_20190701091438766.jpg" alt="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言"></a>
+    <figcaption>
+      <h3><a href="/news/18-90688.html" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言">《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言</a></h3>
+      <time datetime="2019-07-01 09:07:35"></time>
+    </figcaption>
+  </figure>
+      <figure> <a href="/news/16-90687.html" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628042918156.jpg" alt="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋"></a>
+    <figcaption>
+      <h3><a href="/news/16-90687.html" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋">《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋</a></h3>
+      <time datetime="2019-06-28 16:25:53"></time>
+    </figcaption>
+  </figure>
+      <figure> <a href="/news/16-90685.html" title="范冰冰李晨感情回顾：经历风雨我们不再是我们"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628102135902.jpg" alt="范冰冰李晨感情回顾：经历风雨我们不再是我们" title="范冰冰李晨感情回顾：经历风雨我们不再是我们"></a>
+    <figcaption>
+      <h3><a href="/news/16-90685.html" title="范冰冰李晨感情回顾：经历风雨我们不再是我们">范冰冰李晨感情回顾：经历风雨我们不再是我们</a></h3>
+      <time datetime="2019-06-28 09:56:38"></time>
+    </figcaption>
+  </figure>
+      <figure> <a href="/news/16-90684.html" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628091237533.jpg" alt="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳"></a>
+    <figcaption>
+      <h3><a href="/news/16-90684.html" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳">日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳</a></h3>
+      <time datetime="2019-06-28 09:08:12"></time>
+    </figcaption>
+  </figure>
+     </div>
+<!--星闻-->
+<div class="wrap n_wrap in_wrap news_wrap">
+  <section>
+    <h2><a href="javascript:void(0);">星闻</a></h2>
+    <ul>
+      <li><a href="/news/star.html">明星</a></li>
+      <li><a href="/news/tv.html">电视</a></li>
+      <li><a href="/news/film.html">电影</a></li>
+      <li><a href="/news/music.html">音乐</a></li>
+    </ul>
+  </section>
+      <figure> <a href="/news/12-90689.html" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因"><img src="http://img.ylq.com/2019/0701/thumb_160_120_20190701093603275.jpg" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因" alt="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因"></a>
+    <figcaption>
+      <h3><a href="/news/12-90689.html" title="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因">韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因</a></h3>
+      <time datetime="2019-07-01 09:33:33"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/18-90688.html" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言"><img src="http://img.ylq.com/2019/0701/thumb_160_120_20190701091438766.jpg" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言" alt="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言"></a>
+    <figcaption>
+      <h3><a href="/news/18-90688.html" title="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言">《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言</a></h3>
+      <time datetime="2019-07-01 09:07:35"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/16-90687.html" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628042918156.jpg" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋" alt="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋"></a>
+    <figcaption>
+      <h3><a href="/news/16-90687.html" title="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋">《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋</a></h3>
+      <time datetime="2019-06-28 16:25:53"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/17-90686.html" title="唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628040613697.png" title="唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行" alt="唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行"></a>
+    <figcaption>
+      <h3><a href="/news/17-90686.html" title="唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行">唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行</a></h3>
+      <time datetime="2019-06-28 16:05:49"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/16-90685.html" title="范冰冰李晨感情回顾：经历风雨我们不再是我们"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628102135902.jpg" title="范冰冰李晨感情回顾：经历风雨我们不再是我们" alt="范冰冰李晨感情回顾：经历风雨我们不再是我们"></a>
+    <figcaption>
+      <h3><a href="/news/16-90685.html" title="范冰冰李晨感情回顾：经历风雨我们不再是我们">范冰冰李晨感情回顾：经历风雨我们不再是我们</a></h3>
+      <time datetime="2019-06-28 09:56:38"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/16-90684.html" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳"><img src="http://img.ylq.com/2019/0628/thumb_160_120_20190628091237533.jpg" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳" alt="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳"></a>
+    <figcaption>
+      <h3><a href="/news/16-90684.html" title="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳">日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳</a></h3>
+      <time datetime="2019-06-28 09:08:12"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/16-90683.html" title="生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香"><img src="http://img.ylq.com/2019/0627/thumb_160_120_20190627035119979.jpg" title="生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香" alt="生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香"></a>
+    <figcaption>
+      <h3><a href="/news/16-90683.html" title="生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香">生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香</a></h3>
+      <time datetime="2019-06-27 15:48:04"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/16-90681.html" title="《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演"><img src="http://img.ylq.com/2019/0627/thumb_160_120_20190627094107761.jpg" title="《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演" alt="《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演"></a>
+    <figcaption>
+      <h3><a href="/news/16-90681.html" title="《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演">《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演</a></h3>
+      <time datetime="2019-06-27 09:29:31"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/12-90680.html" title="宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹"><img src="http://img.ylq.com/2019/0627/thumb_160_120_20190627090834215.jpg" title="宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹" alt="宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹"></a>
+    <figcaption>
+      <h3><a href="/news/12-90680.html" title="宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹">宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹</a></h3>
+      <time datetime="2019-06-27 09:07:47"></time>
+    </figcaption>
+  </figure>
+    <figure> <a href="/news/16-90678.html" title="吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待"><img src="http://img.ylq.com/2019/0626/thumb_160_120_20190626034756798.jpg" title="吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待" alt="吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待"></a>
+    <figcaption>
+      <h3><a href="/news/16-90678.html" title="吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待">吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待</a></h3>
+      <time datetime="2019-06-26 15:41:40"></time>
+    </figcaption>
+  </figure>
+      <div class="load_btn">加载更多<i></i></div>
+  <a href="/news/star.html" class="more_btn">查看更多<i></i></a> </div>
+<!--明星-->
+<div class="wrap in_wrap stars_wrap">
+  <section>
+    <h2><a href="javascript:void(0);">明星</a></h2>
+    <ul>
+      <li><a href="/star/list-dalu-all-all-all-all-all-all-1.html">大陆</a></li>
+      <li><a href="/star/list-gantai-all-all-all-all-all-all-1.html">港台</a></li>
+      <li><a href="/star/list-rihan-all-all-all-all-all-all-1.html">日韩</a></li>
+      <li><a href="/star/list-oumei-all-all-all-all-all-all-1.html">欧美</a></li>
+    </ul>
+  </section>
+  <div class="s_list">         <figure>
+      <div class="stars_pic"><a href="/star/50-9573.html" title="马蒂耶斯·劳瑞森"><img title="马蒂耶斯·劳瑞森" alt="马蒂耶斯·劳瑞森" src="http://img.ylq.com/2017/1214/thumb_250_250_20171214035425617.png"></a></div>
+      <figcaption><a href="/star/50-9573.html" title="马蒂耶斯·劳瑞森">马蒂耶斯·劳瑞森</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9572.html" title="Jeremy Dufour"><img title="Jeremy Dufour" alt="Jeremy Dufour" src="http://img.ylq.com/2017/1214/thumb_250_250_20171214034926135.png"></a></div>
+      <figcaption><a href="/star/50-9572.html" title="Jeremy Dufour">Jeremy Dufour</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9571.html" title="Santiago Gonzalez"><img title="Santiago Gonzalez" alt="Santiago Gonzalez" src="http://img.ylq.com/2017/1214/thumb_250_250_20171214034259557.png"></a></div>
+      <figcaption><a href="/star/50-9571.html" title="Santiago Gonzalez">Santiago Gonzalez</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9570.html" title="阿曼达·莫尔"><img title="阿曼达·莫尔" alt="阿曼达·莫尔" src="http://img.ylq.com/2017/1214/thumb_250_250_20171214033512631.png"></a></div>
+      <figcaption><a href="/star/50-9570.html" title="阿曼达·莫尔">阿曼达·莫尔</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9569.html" title="桑德拉·茨尔瓦希"><img title="桑德拉·茨尔瓦希" alt="桑德拉·茨尔瓦希" src="http://img.ylq.com/2017/1113/thumb_250_250_20171113111422402.png"></a></div>
+      <figcaption><a href="/star/50-9569.html" title="桑德拉·茨尔瓦希">桑德拉·茨尔瓦希</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9568.html" title="麦肯娜·格瑞丝"><img title="麦肯娜·格瑞丝" alt="麦肯娜·格瑞丝" src="http://img.ylq.com/2017/1113/thumb_250_250_20171113111051152.png"></a></div>
+      <figcaption><a href="/star/50-9568.html" title="麦肯娜·格瑞丝">麦肯娜·格瑞丝</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9567.html" title="贾达·萍克特·史密斯"><img title="贾达·萍克特·史密斯" alt="贾达·萍克特·史密斯" src="http://img.ylq.com/2017/1113/thumb_250_250_20171113110735602.png"></a></div>
+      <figcaption><a href="/star/50-9567.html" title="贾达·萍克特·史密斯">贾达·萍克特·史密斯</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9566.html" title="维罗·史密斯"><img title="维罗·史密斯" alt="维罗·史密斯" src="http://img.ylq.com/2017/1113/thumb_250_250_20171113110025967.png"></a></div>
+      <figcaption><a href="/star/50-9566.html" title="维罗·史密斯">维罗·史密斯</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9565.html" title="贾登·史密斯"><img title="贾登·史密斯" alt="贾登·史密斯" src="http://img.ylq.com/2017/1110/thumb_250_250_20171110040849331.png"></a></div>
+      <figcaption><a href="/star/50-9565.html" title="贾登·史密斯">贾登·史密斯</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9564.html" title="克里斯滕·丽特"><img title="克里斯滕·丽特" alt="克里斯滕·丽特" src="http://img.ylq.com/2017/1106/thumb_250_250_20171106111744628.png"></a></div>
+      <figcaption><a href="/star/50-9564.html" title="克里斯滕·丽特">克里斯滕·丽特</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9563.html" title="苏瑞·克鲁斯"><img title="苏瑞·克鲁斯" alt="苏瑞·克鲁斯" src="http://img.ylq.com/2017/1106/thumb_250_250_20171106104937881.png"></a></div>
+      <figcaption><a href="/star/50-9563.html" title="苏瑞·克鲁斯">苏瑞·克鲁斯</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9562.html" title="玛德琳·卡罗尔"><img title="玛德琳·卡罗尔" alt="玛德琳·卡罗尔" src="http://img.ylq.com/2017/1026/thumb_250_250_20171026103632492.png"></a></div>
+      <figcaption><a href="/star/50-9562.html" title="玛德琳·卡罗尔">玛德琳·卡罗尔</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9561.html" title="摩根·莉莉"><img title="摩根·莉莉" alt="摩根·莉莉" src="http://img.ylq.com/2017/1026/thumb_250_250_20171026102903897.png"></a></div>
+      <figcaption><a href="/star/50-9561.html" title="摩根·莉莉">摩根·莉莉</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9560.html" title="达科塔·范宁"><img title="达科塔·范宁" alt="达科塔·范宁" src="http://img.ylq.com/2017/1026/thumb_250_250_20171026102132604.png"></a></div>
+      <figcaption><a href="/star/50-9560.html" title="达科塔·范宁">达科塔·范宁</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9559.html" title="艾丽·范宁"><img title="艾丽·范宁" alt="艾丽·范宁" src="http://img.ylq.com/2017/1025/thumb_250_250_20171025115305417.png"></a></div>
+      <figcaption><a href="/star/50-9559.html" title="艾丽·范宁">艾丽·范宁</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9558.html" title="英迪娅·埃斯利"><img title="英迪娅·埃斯利" alt="英迪娅·埃斯利" src="http://img.ylq.com/2017/1024/thumb_250_250_20171024120653855.png"></a></div>
+      <figcaption><a href="/star/50-9558.html" title="英迪娅·埃斯利">英迪娅·埃斯利</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/50-9557.html" title="奥丽维娅·赫西"><img title="奥丽维娅·赫西" alt="奥丽维娅·赫西" src="http://img.ylq.com/2017/1024/thumb_250_250_20171024120213984.png"></a></div>
+      <figcaption><a href="/star/50-9557.html" title="奥丽维娅·赫西">奥丽维娅·赫西</a></figcaption>
+    </figure>
+        <figure>
+      <div class="stars_pic"><a href="/star/47-9556.html" title="邢宇菲"><img title="邢宇菲" alt="邢宇菲" src="http://img.ylq.com/2017/1022/thumb_250_250_20171022115514423.png"></a></div>
+      <figcaption><a href="/star/47-9556.html" title="邢宇菲">邢宇菲</a></figcaption>
+    </figure>
+         </div>
+  <div class="s_link"></div>
+  <div class="load_btn">加载更多<i></i></div>
+  <a href="/star/list-dalu-all-all-all-all-all-all-1.html" class="more_btn">查看更多<i></i></a> </div>
+<!--影视-->
+<div class="wrap in_wrap video_wrap">
+  <section>
+    <h2><a href="javascript:void(0);">影视</a></h2>
+    <ul>
+      <li><a href="/v/list-tv.html">电视</a></li>
+      <li><a href="/v/list-films.html">电影</a></li>
+      <li><a href="/v/list-variety.html">综艺</a></li>
+      <li><a href="/v/list-anime.html">动漫</a></li>
+    </ul>
+  </section>
+  <div class="v_list">
+    <ul>
+            
+                        <li>
+        <div class="pic"><a href="/v/film-72-80841.html" title="青禾男高"><img title="青禾男高" alt="青禾男高" src="http://img.ylq.com/2018/0517/thumb_186_245_20180517033347200.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-72-80841.html" title="青禾男高">青禾男高</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-72-80840.html" title="后来的我们"><img title="后来的我们" alt="后来的我们" src="http://img.ylq.com/2018/0502/thumb_186_245_20180502044620478.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-72-80840.html" title="后来的我们">后来的我们</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-73-80838.html" title="唐人街探案2"><img title="唐人街探案2" alt="唐人街探案2" src="http://img.ylq.com/2018/0427/thumb_186_245_20180427041513178.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-73-80838.html" title="唐人街探案2">唐人街探案2</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-81-80837.html" title="无眸之杀"><img title="无眸之杀" alt="无眸之杀" src="http://img.ylq.com/2018/0321/thumb_186_245_20180321035157193.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-81-80837.html" title="无眸之杀">无眸之杀</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-79-80836.html" title="毕业作品"><img title="毕业作品" alt="毕业作品" src="http://img.ylq.com/2018/0316/thumb_186_245_20180316102128701.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-79-80836.html" title="毕业作品">毕业作品</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-85-80835.html" title="猫与桃花源"><img title="猫与桃花源" alt="猫与桃花源" src="http://img.ylq.com/2018/0316/thumb_186_245_20180316101621186.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-85-80835.html" title="猫与桃花源">猫与桃花源</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-81-80834.html" title="通勤营救"><img title="通勤营救" alt="通勤营救" src="http://img.ylq.com/2018/0316/thumb_186_245_20180316100302639.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-81-80834.html" title="通勤营救">通勤营救</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-76-80833.html" title="爱的帕斯卡"><img title="爱的帕斯卡" alt="爱的帕斯卡" src="http://img.ylq.com/2018/0315/thumb_186_245_20180315045102872.png"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-76-80833.html" title="爱的帕斯卡">爱的帕斯卡</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-76-80832.html" title="奇葩朵朵"><img title="奇葩朵朵" alt="奇葩朵朵" src="http://img.ylq.com/2018/0315/thumb_186_245_20180315021933695.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-76-80832.html" title="奇葩朵朵">奇葩朵朵</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-85-80831.html" title="冰雪女王3：火与冰"><img title="冰雪女王3：火与冰" alt="冰雪女王3：火与冰" src="http://img.ylq.com/2018/0314/thumb_186_245_20180314033856519.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-85-80831.html" title="冰雪女王3：火与冰">冰雪女王3：火与冰</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-76-80830.html" title="花滑女王"><img title="花滑女王" alt="花滑女王" src="http://img.ylq.com/2018/0314/thumb_186_245_20180314033357623.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-76-80830.html" title="花滑女王">花滑女王</a></h3>
+      </li>
+                        <li>
+        <div class="pic"><a href="/v/film-76-80829.html" title="第三度嫌疑人"><img title="第三度嫌疑人" alt="第三度嫌疑人" src="http://img.ylq.com/2018/0314/thumb_186_245_20180314032606879.jpg"> <span class="label">电影</span></a></div>
+        <h3><a href="/v/film-76-80829.html" title="第三度嫌疑人">第三度嫌疑人</a></h3>
+      </li>
+                </ul>
+  </div>
+  <div class="s_link"></div>
+  <div class="load_btn">加载更多<i></i></div>
+  <a href="/v/list-tv.html" class="more_btn">查看更多<i></i></a> </div>
+<!--图片-->
+<div class="wrap in_wrap pic_wrap">
+  <section>
+    <h2><a href="javascript:void(0);">图库</a></h2>
+    <ul>
+      <li><a href="/pic/xiezhen.html">写真</a></li>
+      <li><a href="/pic/bizhi.html">壁纸</a></li>
+      <li><a href="/pic/mote.html">模特</a></li>
+      <li><a href="/pic/gaoqing.html">高清</a></li>
+    </ul>
+  </section>
+  <div class="p_list">
+    <ul>
+                        <li class="pic_1"><a href="/pic/42-9827.html" title="火箭少女合体杨超越坐C位 王菊同场亮相秀香肩美腿"><img src="http://img.ylq.com/2018/1101/thumb_295_410_20181101090810958.jpg" title="火箭少女合体杨超越坐C位 王菊同场亮相秀香肩美腿" alt="火箭少女合体杨超越坐C位 王菊同场亮相秀香肩美腿"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_1"><a href="/pic/43-9826.html" title="SHE合体为Selina庆生 三人素颜出镜依偎合影姐妹情深"><img src="http://img.ylq.com/2018/1031/thumb_295_410_20181031033455365.jpg" title="SHE合体为Selina庆生 三人素颜出镜依偎合影姐妹情深" alt="SHE合体为Selina庆生 三人素颜出镜依偎合影姐妹情深"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_3"><a href="/pic/43-9825.html" title="陈龙夫妇陪阿娇赖弘国选婚纱 四人玩自拍友谊满满"><img src="http://img.ylq.com/2018/1030/thumb_600_330_20181030101230868.jpg" title="陈龙夫妇陪阿娇赖弘国选婚纱 四人玩自拍友谊满满" alt="陈龙夫妇陪阿娇赖弘国选婚纱 四人玩自拍友谊满满"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_1"><a href="/pic/39-9824.html" title="杨超越晒自拍面容冷峻表情酷 头戴毛线帽装扮很休闲"><img src="http://img.ylq.com/2018/1030/thumb_295_410_20181030092748634.jpg" title="杨超越晒自拍面容冷峻表情酷 头戴毛线帽装扮很休闲" alt="杨超越晒自拍面容冷峻表情酷 头戴毛线帽装扮很休闲"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_1"><a href="/pic/37-9823.html" title="唐嫣罗晋迎宾晚宴图曝光 翩翩起舞宛如王子与公主"><img src="http://img.ylq.com/2018/1028/thumb_295_410_20181028051715529.jpg" title="唐嫣罗晋迎宾晚宴图曝光 翩翩起舞宛如王子与公主" alt="唐嫣罗晋迎宾晚宴图曝光 翩翩起舞宛如王子与公主"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_3"><a href="/pic/42-9822.html" title="郭富城53岁生日，太太方媛与经纪人小美为他庆祝"><img src="http://img.ylq.com/2018/1026/thumb_600_330_20181026040601552.jpg" title="郭富城53岁生日，太太方媛与经纪人小美为他庆祝" alt="郭富城53岁生日，太太方媛与经纪人小美为他庆祝"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_1"><a href="/pic/36-9821.html" title="秦岚晒九宫格美照风格多变 黑裙高贵优雅红裙魅惑迷人"><img src="http://img.ylq.com/2018/1026/thumb_295_410_20181026090047595.jpg" title="秦岚晒九宫格美照风格多变 黑裙高贵优雅红裙魅惑迷人" alt="秦岚晒九宫格美照风格多变 黑裙高贵优雅红裙魅惑迷人"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_1"><a href="/pic/36-9820.html" title="尤长靖晒美照庆成团200天 与王子异Justin合影帅气逼人"><img src="http://img.ylq.com/2018/1024/thumb_295_410_20181024103047483.jpg" title="尤长靖晒美照庆成团200天 与王子异Justin合影帅气逼人" alt="尤长靖晒美照庆成团200天 与王子异Justin合影帅气逼人"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                  <li class="pic_3"><a href="/pic/37-9819.html" title="孟美岐Sunnee风波后搭肩合照 与Yamy三人同凹造型耍酷"><img src="http://img.ylq.com/2018/1023/thumb_600_330_20181023092217602.jpg" title="孟美岐Sunnee风波后搭肩合照 与Yamy三人同凹造型耍酷" alt="孟美岐Sunnee风波后搭肩合照 与Yamy三人同凹造型耍酷"></a>
+        <h3>迪丽热巴黄梦莹姐妹写真</h3>
+      </li>
+                      </ul>
+  </div>
+  <div class="s_link"></div>
+  <div class="load_btn">加载更多<i></i></div>
+  <a href="/pic/xiezhen.html" class="more_btn">查看更多<i></i></a> </div>
+<!--友情链接-->
+<div class="wrap in_wrap link_wrap">
+  <section>
+    <h2>友情链接</h2>
+  </section>
+  <ul>
+            <li><a href="http://m.ylq.com/v/list-films.html" target="_blank" title="明星电影">明星电影</a></li>
+        <li><a href="http://m.94hnr.com/" target="_blank" title="坏男人">坏男人</a></li>
+          </ul>
+</div>
+﻿<footer class="footer">
+  <p> Copyright © 2015-2016 娱乐圈 www.ylq.com <br />皖ICP备18001441号-1</p>
+</footer>
+<script type="text/javascript">union.m.suspension()</script>
+<div style="display:none;">
+	<script src="https://s95.cnzz.com/z_stat.php?id=1253642292&web_id=1253642292" language="JavaScript"></script>
+	<script src="https://s95.cnzz.com/z_stat.php?id=1253642292&web_id=1253642292" language="JavaScript"></script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?53c9df576e9007709de64c9e403883ca";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+</div>
+</body>
+</html>
+ 

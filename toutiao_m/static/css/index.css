@@ -1,0 +1,155 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+  }
+  
+  .nav_header_bg {
+    width: 100%;
+    height: 44px;
+    background-color: #d43d3d;
+  }
+  
+  .nav_header_center {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .nav_header_center .logo {
+    margin-top: 11px;
+    width: 88px;
+  }
+  
+  .nav-cont {
+    width: 100%;
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #F4F5F6;
+  }
+  
+  .nav-item {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 15px;
+    color: #505050;
+  }
+  
+  .nav-item.active {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 15px;
+  }
+  
+  .nav-item.active a {
+    color: #d43d3d;
+  }
+  
+  .main {
+    width: 100%;
+    padding-top: 90px;
+  }
+  
+  .programa-box {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .title {
+    padding-bottom: 10px;
+    font-size: 22px;
+    color: #333;
+    font-weight: 700;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .programa-list .programa-item {
+    margin-bottom: 10px;
+    padding: 10px 0;
+    box-sizing: border-box;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .programa-list .programa-item:last-child {
+    border-bottom: 0;
+  }
+  
+  .programa-item .content {
+    margin-bottom: 10px;
+    color: #222;
+    line-height: 21px;
+    font-size: 17px;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    display: box;
+    -webkit-box-orient: vertical;
+  }
+  
+  .programa-item .images {
+    display: flex;
+    margin-bottom: 6px;
+    width: 100%;
+    height: 82px;
+    overflow: hidden;
+  }
+  
+  .programa-item .images img {
+    width: 33%;
+  }
+  
+  .programa-item .images .image:not(:last-child) {
+    margin-right: 2px;
+  }
+  
+  .bottom-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .bottom-info .text {
+    margin-right: 10px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #999;
+  }
+  
+  .programa-item3 {
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+  }
+  
+  .programa-item3 .right {
+    flex: 0 0 33%;
+    margin-left: 20px;
+    height: 90px;
+    overflow: hidden;
+  }
+  
+  .programa-item3 .right-image {
+    width: 100%;
+  }
+  
+  .more {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    background-color: #d43d3d;
+  }
+  
+  .footer_main {
+    padding: 25px 0 10px 0px;
+    text-align: center;
+    color: #BABABA;
+    font-size: 12px;
+    line-height: 25px;
+  }

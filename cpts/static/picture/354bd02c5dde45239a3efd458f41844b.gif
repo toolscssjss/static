@@ -1,0 +1,437 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>新闻_娱乐圈</title>
+<meta name="keywords" content="明星新闻,明星八卦,娱乐现场,明星秘闻,明星绯闻,影视资讯,音乐资讯,综艺报道,八卦爆料,预告,指南,穿帮" />
+<meta name="description" content="娱乐圈新闻是最全明星资讯平台,汇聚内地、港台、日韩、欧美明星的八卦,绯闻,曝光,爆料,丑闻,电影,电视剧,综艺,音乐,作品等最新资讯。" />
+<meta name="mobile-agent" content="format=html5;url=http://m.ylq.com/news/" />
+<link rel="icon" type="image/x-icon" href="http://img.ylq.com/statics/images/favicon.ico" />
+<link href="http://img.ylq.com/statics/css/2015global.css" rel="stylesheet" type="text/css" />
+<link href="http://img.ylq.com/statics/css/2015news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://img.ylq.com/statics/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/statics/js/share.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/statics/js/koala.min.1.5.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/statics/js/news2015.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/statics/js/common.js"></script>
+<script type="text/javascript" src="http://img.ylq.com/statics/js/all.js"></script>
+<script type="text/javascript">uaredirect("http://m.ylq.com/news/");</script>
+</head>
+<body>
+<div class="header">
+  <div class="topNav">
+    <div class="content">
+    <div class="left">
+        <div class="weixin"><i></i>微信订阅号<i class="curr"></i>
+          <div class="weixinImg"><img src="http://img.ylq.com/statics/images/weixinCode_1.png" width="155" height="165"/></div>
+        </div>
+      </div>
+      <script>
+      $(function(){
+        $(".topNav .content .left .weixin").hover(function(){
+            $(this).children(".curr").toggleClass("rcurr");
+            $(this).toggleClass("on").children(".weixinImg").toggle();
+        })
+      })
+      </script>
+      <div class="menu">
+        <ul>
+          <li><a href="http://www.ylq.com">首页</a></li>
+          <li><a href="http://news.ylq.com/">星闻</a></li>
+          <li><a href="http://www.ylq.com/star/">明星</a></li>
+          <li><a href="http://www.ylq.com/v/index.html/">影视</a></li>
+          <li><a href="http://pic.ylq.com/">图库</a></li>
+		  <li><a href="http://www.ylq.com/z/">专题</a></li>
+          <li><a href="http://www.ylq.com/baike/">百科</a></li>
+          <li><a href="http://www.ylq.com/redian/">热点</a></li>
+        </ul>
+      </div>
+      <div class="login"><span><i></i><em><a href="http://www.ylq.com/html/appdownload.html" target="_blank">手机客户端</a></em></span><a href="#">登陆</a><a href="#">注册</a><a href="#"><img src="http://img.ylq.com/statics/images/qqIcon.png" /></a><a href="#" class="mrNone"><img src="http://img.ylq.com/statics/images/weiboIcon.png" /></a></div>
+    </div>
+  </div>
+  <div class="logoSearch">
+    <div class="star_logo"><a href="http://news.ylq.com/"><img src="http://img.ylq.com/statics/images/news_logo.png" /></a></div>
+    <div class="search">
+      <script type="text/javascript">(function(){document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = 'http://znsv.baidu.com/customer_search/api/js?sid=9680871297657654260' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000);var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script> 
+    </div>
+  </div>
+</div><!--导航条-->
+<div class="nNav">
+  <ul>
+    <li class="on"><a href="http://news.ylq.com/">新闻首页<i></i></a></li>
+    <li>
+      <dl>
+        <dt><a href="http://news.ylq.com/star/">明星</a></dt>
+        <dd><a href="http://news.ylq.com/star/hymx/" title="华语明星">国内</a></dd>
+        <dd><a href="http://news.ylq.com/star/gwmx/" title="国外明星">国外</a></dd>
+        <dd><a href="http://news.ylq.com/star/bgfw/" title="八卦绯闻">八卦</a></dd>
+        <dd><a href="http://news.ylq.com/star/blt/" title="娱乐爆料">爆料</a></dd>
+      </dl>
+    </li>
+    <li>
+      <dl>
+        <dt><a href="http://news.ylq.com/film/">电影</a></dt>
+        <dd><a href="http://news.ylq.com/film/hy/" title="华语影讯">华语</a></dd>
+        <dd><a href="http://news.ylq.com/film/om/" ttile="欧美影讯">欧美</a></dd>
+        <dd><a href="http://news.ylq.com/film/rh/" title="日韩影讯">日韩</a></dd>
+        <dd><a href="http://news.ylq.com/film/dycb/" title="电影穿帮">穿帮</a></dd>
+      </dl>
+    </li>
+    <li>
+      <dl>
+        <dt><a href="http://news.ylq.com/tv/">电视</a></dt>
+        <dd><a href="http://news.ylq.com/tv/hy/" title="华语视讯">华语</a></dd>
+        <dd><a href="http://news.ylq.com/tv/wy/" title="外语视讯">外语</a></dd>
+        <dd><a href="http://news.ylq.com/tv/zybd/" title="综艺报道">综艺</a></dd>
+        <dd><a href="http://news.ylq.com/tv/dscb/" title="电视穿帮">穿帮</a></dd>
+      </dl>
+    </li>
+    <li>
+      <dl>
+        <dt><a href="http://news.ylq.com/music/">音乐</a></dt>
+        <dd><a href="http://news.ylq.com/music/hy/" title="华语音乐">华语</a></dd>
+        <dd><a href="http://news.ylq.com/music/wy/" title="外语音乐">外语</a></dd>
+      </dl>
+    </li>
+  </ul>
+  <div class="shadowBg"></div>
+</div>
+<div class="main">
+  <!--轮播图-->
+  <div id="fsD1" class="focus">
+    <div id="D1pic1" class="fPic">             <div class="fcon" style="display: none;"> <a target="_blank" href="http://www.ylq.com/redian/0627/90682.html"><img src="http://img.ylq.com/2019/0627/20190627033704507.jpg" title="张若昀唐艺昕婚礼伴郎伴娘团全曝光" width="1000" height="360" style="opacity: 1; "></a> <span class="shadow"><a target="_blank" href="http://www.ylq.com/redian/0627/90682.html">张若昀唐艺昕婚礼伴郎伴娘团全曝光</a></span> </div>
+            <div class="fcon" style="display: none;"> <a target="_blank" href="http://news.ylq.com/a/0521/90550.html"><img src="http://img.ylq.com/2019/0521/20190521102522896.jpg" title="他是娱乐圈最穷的富二代，父亲身价上亿，他连一辆代步工具都没有" width="1000" height="360" style="opacity: 1; "></a> <span class="shadow"><a target="_blank" href="http://news.ylq.com/a/0521/90550.html">他是娱乐圈最穷的富二代，父亲身价上亿，他连一辆代步工具都没有</a></span> </div>
+            <div class="fcon" style="display: none;"> <a target="_blank" href="http://www.ylq.com/html/a/0411/90404.html"><img src="http://img.ylq.com/2019/0411/20190411092022366.jpg" title="曝张丹峰与经纪人幽会第三锤 两人独处7小时毕滢穿睡袍进出" width="1000" height="360" style="opacity: 1; "></a> <span class="shadow"><a target="_blank" href="http://www.ylq.com/html/a/0411/90404.html">曝张丹峰与经纪人幽会第三锤 两人独处7小时毕滢穿睡袍进出</a></span> </div>
+            <div class="fcon" style="display: none;"> <a target="_blank" href="http://news.ylq.com/a/0828/89816.html"><img src="http://img.ylq.com/2018/0828/20180828053146362.jpg" title="李连杰与妻子同游青海，网友：还是那么漂亮" width="1000" height="360" style="opacity: 1; "></a> <span class="shadow"><a target="_blank" href="http://news.ylq.com/a/0828/89816.html">李连杰与妻子同游青海，网友：还是那么漂亮</a></span> </div>
+             </div>
+    <div class="fbg">
+      <div class="D1fBt" id="D1fBt"><a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class="current"><i>3</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>4</i></a> </div>
+    </div>
+    <span class="prev"></span> <span class="next"></span> </div>
+  <script type="text/javascript">
+	Qfast.add('widgets', { path: "http://img.ylq.com/statics/js/terminator2.2.min.js", type: "js", requires: ['fx'] });  
+	Qfast(false, 'widgets', function () {
+		K.tabs({
+			id: 'fsD1', 
+			conId: "D1pic1", 
+			tabId:"D1fBt",  
+			tabTn:"a",
+			conCn: '.fcon', 
+			auto: 1,  
+			effect: 'fade', 
+			eType: 'click',
+			pageBt:true,
+			bns: ['.prev', '.next'],   
+			interval: 3000 
+		}) 
+	})  
+</script>
+  <!--新闻列表-->
+  <div class="sideLeft">
+    <div class="menu">
+      <ul>
+        <li catid="6" class="on aPd">最新</li>
+        <li catid="7">明星资讯</li>
+        <li catid="8">电影资讯</li>
+        <li catid="9">电视资讯</li>
+        <li catid="10">音乐资讯</li>
+      </ul>
+    </div>
+    <ul class="newsIndex">
+                  <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0701/90689.html">韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0701/90689.html"><img src="http://img.ylq.com/2019/0701/thumb_320_240_20190701093603275.jpg" width="160" height="120" alt="韩国知名女星全美善疑似自杀，韩国明星为什么多自杀，压力是主因" /></a>
+        <p>全美善是韩国知名女星，现年48岁，韩媒报道，全美善于韩国时间29日11时45岁在全北全州的一家酒店离世，警方在接到其经纪人报警后，立刻将其   </p>
+        <span class="left">2019-07-01</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0701/90689.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0701/90689.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0701/90689.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0701/90689.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0701/90689.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0701/90689.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0701/90689.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0701/90688.html">《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0701/90688.html"><img src="http://img.ylq.com/2019/0701/thumb_320_240_20190701091438766.jpg" width="160" height="120" alt="《蜘蛛侠：英雄远征》骗了观众足足两个小时，直到彩蛋才揭开谎言" /></a>
+        <p>刚刚上映的《蜘蛛侠：英雄远征》相信各位漫威粉丝应该都看过了吧？这部被漫威总裁凯文费奇称为漫威电影宇宙前三阶段的正式终结的一部作品，没有令粉丝们失望。本来以为《复仇者联盟4：终局之战》的战争结束后，世界就已经和平了，也不会有太多如复联4最后那场大战般精彩的战斗场面了，没想到在这部《蜘蛛侠：英雄远征》却又一次让粉丝们收获了惊喜和意外，这场</p>
+        <span class="left">2019-07-01</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0701/90688.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0701/90688.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0701/90688.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0701/90688.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0701/90688.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0701/90688.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0701/90688.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0628/90687.html">《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0628/90687.html"><img src="http://img.ylq.com/2019/0628/thumb_320_240_20190628042918156.jpg" width="160" height="120" alt="《蜘蛛侠：英雄远征》，主要人物再度回归，梅姨陷入热恋" /></a>
+        <p>《复仇者联盟4：终局之战》也许已经结束了漫威电影宇宙中，许多的情节线索，但这部超级英雄系列电影的第三阶段，将在《蜘蛛侠:英雄远征》中结束。虽然蜘蛛侠在《复仇者联盟3:无限战争》和《复仇者联盟4：终局之战》中都出现过，但这离他的上一部个人电影《蜘蛛侠:英雄归来》已经有两年之久。</p>
+        <span class="left">2019-06-28</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0628/90687.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90687.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0628/90687.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90687.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0628/90687.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90687.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0628/90687.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0628/90686.html">唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0628/90686.html"><img src="http://img.ylq.com/2019/0628/thumb_320_240_20190628040613697.png" width="160" height="120" alt="唤醒观众少女心 黑马潜力电影《N次初恋》新闻发布会在蓉举行" /></a>
+        <p>6月24日，由温州智阳文化传媒有限公司、四川巨星神话影视文化传媒有限公司联合出品，李卓阳执导，黄恺杰、王瑞子领衔主演，赵雅芝特别出演   </p>
+        <span class="left">2019-06-28</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0628/90686.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90686.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0628/90686.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90686.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0628/90686.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90686.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0628/90686.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0628/90685.html">范冰冰李晨感情回顾：经历风雨我们不再是我们</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0628/90685.html"><img src="http://img.ylq.com/2019/0628/thumb_320_240_20190628102135902.jpg" width="160" height="120" alt="范冰冰李晨感情回顾：经历风雨我们不再是我们" /></a>
+        <p>   6月27日晚，范冰冰微博发文我们不再是我们，我们依然是我们，疑似宣布与男友李晨分手。随后李晨转发称从朋友到爱人，再做回朋友，情   </p>
+        <span class="left">2019-06-28</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0628/90685.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90685.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0628/90685.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90685.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0628/90685.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90685.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0628/90685.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0628/90684.html">日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0628/90684.html"><img src="http://img.ylq.com/2019/0628/thumb_320_240_20190628091237533.jpg" width="160" height="120" alt="日本网友评价：中日两国电影海报实力差距，中国风海报让他们惊艳" /></a>
+        <p>随着《千与千寻》在国内的上映之后，宫崎骏的各种作品又再次回归到了人们的话题当中。而这也让日本网友对中国的海报产生了兴趣，他们在仔细了对比了中日两国的电影海报，终于明白了两者实力的差距。</p>
+        <span class="left">2019-06-28</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0628/90684.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90684.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0628/90684.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90684.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0628/90684.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0628/90684.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0628/90684.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0627/90683.html">生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0627/90683.html"><img src="http://img.ylq.com/2019/0627/thumb_320_240_20190627035119979.jpg" width="160" height="120" alt="生化女、破产姐妹女主角陆续接拍华语片！中国电影市场，真香" /></a>
+        <p>前些年，中国演员热衷于进军好莱坞电影圈的消息还是新闻，也由此诞生了不少“中国特供版”的好莱坞大片，比如《变形金刚》系列，但随着中国电影市场的不断发展，越来越多的好莱坞演员开始和中国电影合作，接拍由中国资本打造的华语片。</p>
+        <span class="left">2019-06-27</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0627/90683.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90683.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0627/90683.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90683.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0627/90683.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90683.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0627/90683.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0627/90681.html">《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0627/90681.html"><img src="http://img.ylq.com/2019/0627/thumb_320_240_20190627094107761.jpg" width="160" height="120" alt="《黑客帝国4》将于2020年开拍！沃卓斯基回归、迈克尔B乔丹主演" /></a>
+        <p>近日，据Discussing Film报道，新版《黑客帝国》电影将于2020年在芝加哥开拍。
+这是《黑客帝国》的第四部，依旧由沃卓斯基姐妹执导，并且将剧本撰写交给了《头号玩家》和《复仇者联盟》的编剧扎克·佩恩。</p>
+        <span class="left">2019-06-27</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0627/90681.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90681.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0627/90681.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90681.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0627/90681.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90681.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0627/90681.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0627/90680.html">宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0627/90680.html"><img src="http://img.ylq.com/2019/0627/thumb_320_240_20190627090834215.jpg" width="160" height="120" alt="宋慧乔宋仲基离婚！2人传婚变已久藏多处蛛丝马迹" /></a>
+        <p>   据韩媒报道，宋仲基和宋慧乔目前正在进行离婚调解，宋仲基通过法律代理人向公众表示抱歉，称希望二人圆满地结束离婚程序，而不是互相   </p>
+        <span class="left">2019-06-27</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0627/90680.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90680.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0627/90680.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90680.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0627/90680.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0627/90680.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0627/90680.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+            <li>
+        <h3><a target="_blank" href="http://news.ylq.com/a/0626/90678.html">吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待</a></h3>
+        <a target="_blank" href="http://news.ylq.com/a/0626/90678.html"><img src="http://img.ylq.com/2019/0626/thumb_320_240_20190626034756798.jpg" width="160" height="120" alt="吴京《流浪地球》将拍前传？导演透露全班人马将回归，引人期待" /></a>
+        <p>前不久，公布的上半年票房前十的电影中，在年初上映由吴京出演的《流浪地球》依然稳居榜首的位置，并且与后几位的电影票房拉开了很大的差距。电影《流浪地球》的一举成名，也让国内的科幻电影行业看到了新的前景。该电影的导演郭帆也因此声明大振，不但成了高票房的代表，而且也被外界认为是国内科幻电影的领军人物。</p>
+        <span class="left">2019-06-26</span><em class="bdsharebuttonbox"  data="{'url':'http://news.ylq.com/a/0626/90678.html'}"><a onMouseMove="getUrl('http://news.ylq.com/a/0626/90678.html')" href="javascript:void(0)" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" data-url="http://news.ylq.com/a/0626/90678.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0626/90678.html')" href="javascript:void(0)" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间" data-url="http://news.ylq.com/a/0626/90678.html"></a><a onMouseMove="getUrl('http://news.ylq.com/a/0626/90678.html')" href="javascript:void(0)" class="bds_weixin" data-cmd="weixin" title="分享到微信" data-url="http://news.ylq.com/a/0626/90678.html"></a><a href="#" class="bds_more" data-cmd="more"></a></em></span> </li>
+                </ul>
+    <div class="loading">加载更多<i></i></div>
+    <script>
+<!--菜单选择-->
+  $(document).ready(function(e) {
+    $(".main .sideLeft .menu ul li").click(function() {
+        $(this).addClass("on").siblings().removeClass("on");
+    });
+}); 
+<!--菜单固定-->
+　$(function() {
+    $(window).scroll(function() {
+        var $this = $(this);
+        var targetTop = $(this).scrollTop();
+        if (targetTop >= 664) {
+            $(".menu").addClass("fixedNav");
+        } else {
+            $(".menu").removeClass("fixedNav");
+        }
+    })
+});
+  </script>
+  </div>
+  <div class="sideRight">
+    <div class="hd pro proList">
+      <!-- 广告位1 -->
+<!-- 广告位1 -->
+      <h2 class="listRight"><i></i> <a target="_blank" href="http://www.ylq.com/z/" class="moreStyle" rel="nofollow">MORE</a>精选专题 </h2>
+            <ul class="project">
+                                        <li style="height:150px; margin:2px 0;">
+          <div class="pic"> <a href="http://www.ylq.com/z/qrlqs/" target="_blank" titile="乔任梁去世"> <img src="http://img.ylq.com/2016/0918/thumb_600_300_20160918092103506.jpg" width="300" height="150" alt="乔任梁去世"/> <span></span> <em>乔任梁去世</em> </a> </div>
+        </li>
+                                        <li style="height:32px; margin:2px 0;">
+          <div class="pic"> <a href="http://www.ylq.com/z/yunzhongge/" target="_blank" titile="Angelababy荧屏首秀《云中歌》"> <img class="hide" src="http://img.ylq.com/2015/0929/thumb_600_300_20150929015423429.png" width="300" height="150" alt="Angelababy荧屏首秀《云中歌》" /> <span class="bgGray"></span> <em class="pColor">Angelababy荧屏首秀《云中歌》</em> </a> </div>
+        </li>
+                                        <li style="height:32px; margin:2px 0;">
+          <div class="pic"> <a href="http://www.ylq.com/z/langyabang/" target="_blank" titile="胡歌刘涛权谋剧《琅琊榜》"> <img class="hide" src="http://img.ylq.com/2015/0929/thumb_600_300_20150929022121232.png" width="300" height="150" alt="胡歌刘涛权谋剧《琅琊榜》" /> <span class="bgGray"></span> <em class="pColor">胡歌刘涛权谋剧《琅琊榜》</em> </a> </div>
+        </li>
+                                        <li style="height:32px; margin:2px 0;">
+          <div class="pic"> <a href="http://www.ylq.com/z/bsgbxxyl/" target="_blank" titile="马伊琍朱亚文《北上广不相信眼泪》"> <img class="hide" src="http://img.ylq.com/2015/1123/thumb_600_300_20151123091859647.jpg" width="300" height="150" alt="马伊琍朱亚文《北上广不相信眼泪》" /> <span class="bgGray"></span> <em class="pColor">马伊琍朱亚文《北上广不相信眼泪》</em> </a> </div>
+        </li>
+                                      </ul>
+       </div>
+    <script>
+      $(document).ready(function(e) {
+        var $pro_li=$('.sideRight .pro ul.project li');
+		$pro_li.hover(function(){
+			$(this).css("height","150px").siblings().css("height","32px");
+			$pro_li.find("img").hide();
+			$pro_li.find("span").addClass("bgGray");
+			$pro_li.find("em").addClass("pColor");
+			$(this).find("img").show();
+			$(this).find("span").removeClass("bgGray");
+			$(this).find("em").removeClass("pColor");			
+		});
+    });
+</script>
+    <div class="hd">
+      <!-- 广告位2 -->
+<!-- 广告位2 -->
+      <h2><i></i>一周新闻排行榜</h2>
+      <ul class="rank">
+                                        <li><span class="redFront">1</span><a target="_blank" href="http://news.ylq.com/a/0720/43907.html">韩国最萌三胞胎名气不输宋仲基 宋民国表情包合集</a></li>
+                                        <li><span class="redFront">2</span><a target="_blank" href="http://news.ylq.com/a/1025/82285.html">《速度与激情9》吴京扮演什么角色？吴京和范迪塞尔首次合作</a></li>
+                                        <li><span class="redFront">3</span><a target="_blank" href="http://news.ylq.com/a/1219/86874.html">元彬宋慧乔婚纱照 元彬宋慧乔吻戏/恋情</a></li>
+                                        <li><span>4</span><a href="http://news.ylq.com/a/0727/75870.html" target="_blank">巩俐的胸下垂很厉害 巩俐的胸有多大个人资料介绍</a></li>
+                                        <li><span>5</span><a href="http://news.ylq.com/a/1210/28702.html" target="_blank">《芈月传》黄歇扮演者黄轩拍戏直流泪 黄轩谈周迅孙俪</a></li>
+                                        <li><span>6</span><a href="http://news.ylq.com/a/0801/76254.html" target="_blank">杨钰莹要嫁鲍国安儿子 经查证两子早已结婚(组图)</a></li>
+                                        <li><span>7</span><a href="http://news.ylq.com/a/1020/24908.html" target="_blank">揭歌手周彦宏的现任老公个人资料 周艳泓和毕福剑是什么关系</a></li>
+                                        <li><span>8</span><a href="http://news.ylq.com/a/1221/56430.html" target="_blank">柳岩不照雅照片原图曝光 大尺度太性感太迷人</a></li>
+                                        <li><span>9</span><a href="http://news.ylq.com/a/0623/71189.html" target="_blank">谭芷昀个人资料父母是谁 谭芷昀的爸爸妈妈照片家庭背景介绍</a></li>
+                                        <li><span>10</span><a href="http://news.ylq.com/a/0909/77505.html" target="_blank"> 陈少霞晒与富豪老公恩爱度假照 网友：双儿怀孕了？</a></li>
+                                      </ul>
+    </div>
+    <div class="hd">
+      <!-- 广告位3 -->
+<!-- 广告位3 -->
+      <h2><a href="http://www.ylq.com/star/" class="moreStyle" rel="nofollow">MORE</a><i></i>热门明星</h2>
+      <ul class="hotStar">
+                        <li><a target="_blank" href="http://www.ylq.com/rihan/jinlix/"><img src="http://img.ylq.com/2016/0921/thumb_180_180_20160921050727768.jpg" width="90" height="90" /><span>金厉旭</span></a></li>
+                <li><a target="_blank" href="http://www.ylq.com/rihan/ddkz/"><img src="http://img.ylq.com/2016/0913/thumb_180_180_20160913104356341.jpg" width="90" height="90" /><span>岛袋宽子</span></a></li>
+                <li><a target="_blank" href="http://www.ylq.com/rihan/BAP/"><img src="http://img.ylq.com/2016/0912/thumb_180_180_20160912045946656.jpg" width="90" height="90" /><span>B.A.P</span></a></li>
+                <li><a target="_blank" href="http://www.ylq.com/neidi/fanxinman/"><img src="http://img.ylq.com/2016/0830/thumb_180_180_20160830063631890.jpg" width="90" height="90" /><span>樊馨蔓</span></a></li>
+                <li><a target="_blank" href="http://www.ylq.com/rihan/yuzhihao/"><img src="http://img.ylq.com/2016/0830/thumb_180_180_20160830032656810.jpg" width="90" height="90" /><span>禹智皓</span></a></li>
+                <li><a target="_blank" href="http://www.ylq.com/rihan/xgys/"><img src="http://img.ylq.com/2016/0822/thumb_180_180_20160822103912996.jpg" width="90" height="90" /><span>小宫有纱</span></a></li>
+                      </ul>
+    </div>
+    <div class="hd">
+      <!-- 广告位4 -->
+<!-- 广告位4 -->
+      <h2><i></i>娱乐热点</h2>
+      <ul class="rank">
+                        <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0627/90682.html">张若昀唐艺昕婚礼伴郎伴娘团全曝光</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0626/90679.html">吴亦凡杂志黑色长发梳马尾辫 网友调侃像巩汉林小品造型</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0625/90675.html">郎朗陪老婆回“娘家”演出 爱丽丝深情凝望老公满脸甜蜜</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0624/90668.html">卢靖姗被曝与韩庚注册结婚后首晒照 嘟嘴卖萌心情好</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0621/90663.html">流浪地球爆红：越厉害的人，越不把自己当回事</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0621/90662.html">郭德纲刘德华同框渊源深：老郭改编忘情水，华仔吵着演“郭德纲”</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0620/90657.html">林志玲宣布结婚后首次亮相 与英国王室一同看赛马高大上</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0619/90655.html">王思聪自称不抢电影大佬饭碗 掷630万奖励新编剧</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0618/90651.html">baby亲历四川地震后报平安 何炅谢娜黄晓明刘涛等祈祷</a></li>
+                <li><i></i><a target="_blank" href="http://www.ylq.com/redian/0617/90649.html">范冰冰名誉权案一审胜诉 五被告须赔偿共四十万元</a></li>
+                      </ul>
+    </div>
+    <div class="hd">
+      <!-- 广告位5 -->
+<!-- 广告位5 -->
+      <h2><a href="http://pic.ylq.com/" class="moreStyle" rel="nofollow">MORE</a><i></i>热门图集</h2>
+            <ul class="hotPic">
+                        <li><a target="_blank" href="http://pic.ylq.com/a/0109/789.html"><img src="http://img.ylq.com/2015/0109/thumb_280_210_20140827093148542.jpg" width="140" height="105" title="陈学冬写真" /><span>陈学冬写真</span></a></li>
+                <li><a target="_blank" href="http://pic.ylq.com/a/0822/8868.html"><img src="http://img.ylq.com/2016/0822/thumb_280_210_20160822041325746.png" width="140" height="105" title="号称校花的马蓉素颜长这样 真是一言难尽" /><span>号称校花的马蓉素颜长这样 真是一言难尽</span></a></li>
+                <li><a target="_blank" href="http://pic.ylq.com/a/1021/9273.html"><img src="http://img.ylq.com/2016/1021/thumb_280_210_20161021065400974.jpg" width="140" height="105" title="央视90后女主播气质出众走红 王音棋生活照曝光" /><span>央视90后女主播气质出众走红 王音棋生活照曝光</span></a></li>
+                <li><a target="_blank" href="http://pic.ylq.com/a/0822/8857.html"><img src="http://img.ylq.com/2016/0822/thumb_280_210_20160822095614355.jpg" width="140" height="105" title="马蓉大量私房照曝光" /><span>马蓉大量私房照曝光</span></a></li>
+                      </ul>
+       </div>
+    <div class="hd">
+      <!-- 广告位6 -->
+<!-- 广告位6 -->
+      <h2><a href="http://v.ylq.com/" class="moreStyle" rel="nofollow">MORE</a><i></i>热门影视</h2>
+      <ul class="hotStar hotVideo">
+                                <li> <a target="_blank" href="http://v.ylq.com/film/78652/"> <img src="http://img.ylq.com/2015/1211/thumb_180_240_20151211095645614.jpg" width="90" height="120" title="僵尸世界大战2" />
+          <div><span class="maxBg"></span><span class="playBtn"></span></div>
+          <span>僵尸世界大战2</span> </a> </li>
+                <li> <a target="_blank" href="http://v.ylq.com/film/16096/"> <img src="http://img.ylq.com/2014/1231/thumb_180_240_20141231184427726.jpg" width="90" height="120" title="汤姆历险记（1938版）" />
+          <div><span class="maxBg"></span><span class="playBtn"></span></div>
+          <span>汤姆历险记（1938版）</span> </a> </li>
+                <li> <a target="_blank" href="http://v.ylq.com/film/77781/"> <img src="http://img.ylq.com/2016/0128/thumb_180_240_20160128115506721.jpg" width="90" height="120" title="愤怒的小鸟大电影" />
+          <div><span class="maxBg"></span><span class="playBtn"></span></div>
+          <span>愤怒的小鸟大电影</span> </a> </li>
+                                                        <li> <a target="_blank" href="http://v.ylq.com/tv/77628/"> <img src="http://img.ylq.com/2015/0916/thumb_180_240_20150916110230556.jpg" width="90" height="120" title="我的女儿琴四月" />
+          <div><span class="maxBg"></span><span class="playBtn"></span></div>
+          <span>我的女儿琴四月</span> </a> </li>
+                <li> <a target="_blank" href="http://v.ylq.com/tv/31495/"> <img src="http://img.ylq.com/2015/0105/thumb_180_240_20150105082845621.jpg" width="90" height="120" title="正阳门下" />
+          <div><span class="maxBg"></span><span class="playBtn"></span></div>
+          <span>正阳门下</span> </a> </li>
+                <li> <a target="_blank" href="http://v.ylq.com/tv/32101/"> <img src="http://img.ylq.com/2015/0105/thumb_180_240_20150105083253469.jpg" width="90" height="120" title="永不磨灭的番号" />
+          <div><span class="maxBg"></span><span class="playBtn"></span></div>
+          <span>永不磨灭的番号</span> </a> </li>
+                              </ul>
+        <!-- 广告位7 -->
+<!-- 广告位7 -->
+    </div>
+  </div>
+  <div class="sLink">
+    <h2>友情链接<span>Link</span><span class="contact">链接交换：<em>QQ251413078</em></span></h2>
+    <ul>
+                        <li><a href="http://xxylq.cn " target="_blank">娱乐频道</a></li>
+            <li><a href="http://news.ylq.com/" target="_blank">新闻热点</a></li>
+            <li><a href="https://finance.gucheng.com/shrd/" target="_blank">社会热点</a></li>
+            <li><a href="http://www.38fan.com" target="_blank">丽人时尚网</a></li>
+            <li><a href="http://www.xinwenge.net/xwg/" target="_blank">新闻哥</a></li>
+            <li><a href="http://new.syie.cc/list-id-2-1.html" target="_blank">舍友娱乐</a></li>
+                      </ul>
+  </div>
+</div>
+<script type="text/javascript">zhuti();</script>
+<div id="top"><a href="#"><img src="http://img.ylq.com/statics/images/r_top.png"/></a></div>
+<link href="http://img.ylq.com/statics/css/2015footer.css" rel="stylesheet" type="text/css" />
+<div class="footer">
+  <div class="footcontent">
+    <p class="f_weixin f_right"><a href="http://www.ylq.com/html/appdownload.html"><img src="http://img.ylq.com/statics/images/f_app.png" /><span>移动客户端</span></a></p>
+    <p class="f_weixin"><img src="http://img.ylq.com/statics/images/ylq_wxgzh.jpg" /><span>微信公众号</span></p>
+    <p class="f_weibo"><a href="http://weibo.com/ylqcom" target="_blank" rel="nofollow"><i></i><span>关注我们</span></a></p>
+    <dl class="star">
+      <dt><a href="http://www.ylq.com/star/" target="_blank">明星</a></dt>
+      <dd><a href="http://www.ylq.com/neidi/" target="_blank">大陆明星</a></dd>
+      <dd><a href="http://www.ylq.com/gangtai/" target="_blank">港台明星</a></dd>
+      <dd><a href="http://www.ylq.com/rihan/" target="_blank">日韩明星</a></dd>
+      <dd><a href="http://www.ylq.com/oumei/" target="_blank">欧美明星</a></dd>
+	  <dd><a href="http://www.ylq.com/top/star/" target="_blank">热门明星</a></dd>
+    </dl>
+    <dl class="star">
+      <dt><a href="http://news.ylq.com/" target="_blank">资讯</a></dt>
+      <dd><a href="http://news.ylq.com/star/" target="_blank">明星资讯</a></dd>
+      <dd><a href="http://news.ylq.com/film/" target="_blank">电影资讯</a></dd>
+      <dd><a href="http://news.ylq.com/tv/" target="_blank">电视资讯</a></dd>
+      <dd><a href="http://news.ylq.com/music/" target="_blank">音乐资讯</a></dd>
+	  <dd><a href="http://www.ylq.com/top/news/" target="_blank">实时热点</a></dd>
+    </dl>
+    <dl class="pic">
+      <dt><a href="http://pic.ylq.com/" target="_blank">图库</a></dt>
+      <dd><a href="http://pic.ylq.com/xiezhen/" target="_blank">写真</a></dd>
+      <dd><a href="http://pic.ylq.com/bizhi/" target="_blank">壁纸</a></dd>
+      <dd><a href="http://pic.ylq.com/mote/" target="_blank">模特</a></dd>
+      <dd><a href="http://pic.ylq.com/gaoqing/" target="_blank">高清</a></dd>
+      <dd><a href="http://pic.ylq.com/juzhao/" target="_blank">剧照</a></dd>
+      <dd><a href="http://pic.ylq.com/huodong/" target="_blank">现场</a></dd>
+      <dd><a href="http://pic.ylq.com/zazhi/" target="_blank">杂志封面</a></dd>
+      <dd><a href="http://pic.ylq.com/shz/" target="_blank">生活照</a></dd>
+      <dd><a href="http://pic.ylq.com/lzp/" target="_blank">老照片</a></dd>
+      <dd><a href="http://pic.ylq.com/ych/" target="_blank">演唱会</a></dd>
+    </dl>
+    <dl class="video">
+      <dt><a href="http://www.ylq.com/v/index.html/" target="_blank">影视</a></dt>
+      <dd><a href="http://www.ylq.com/v/index.html/film/" target="_blank">电影</a></dd>
+      <dd><a href="http://www.ylq.com/v/index.html/tv/" target="_blank">电视剧</a></dd>
+      <dd><a href="http://www.ylq.com/v/index.html/variety/" target="_blank">综艺</a></dd>
+      <dd><a href="http://www.ylq.com/v/index.html/anime/" target="_blank">动漫</a></dd>
+	  <dd><a href="http://www.ylq.com/top/" target="_blank">风云榜</a></dd>
+    </dl>
+  </div>
+  <div class="bottom">
+    <p> <a href="http://www.ylq.com/" target="_blank">首页</a> <a href="http://www.ylq.com/help/aboutus.html" target="_blank" rel="nofollow">关于本站</a> <a href="http://www.ylq.com/help/contactus.html" target="_blank" rel="nofollow">联系我们</a> <a href="http://www.ylq.com/help/map.html" target="_blank" rel="nofollow">网站地图</a> <a href="http://www.ylq.com/help/copyright.html" target="_blank" rel="nofollow">版权声明</a> <a href="http://www.ylq.com/help/agreement.html" target="_blank" rel="nofollow">用户协议</a> <a href="#">返回顶部 ↑</a> </p>
+    <p>Copyright © 2015-2016 娱乐圈 www.ylq.com 版权所有</p>
+    <p>皖ICP备18001441号-1</p>
+  </div>
+</div>
+<div id="tongji" style="display:none;">
+<script src="https://s19.cnzz.com/z_stat.php?id=1274788428&web_id=1274788428" language="JavaScript"></script>
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?53c9df576e9007709de64c9e403883ca";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+  </script>
+</div>
+<script>
+$(function(){   
+    $(document).scroll(function(){
+        t = $(document).scrollTop();
+        if(t>200){
+            width = $(document).width();
+			if(width > 1024){
+				right = (width - 1000)/2 - 46;
+				right = right < 0 ? 0 : right;
+				$("#top").css("right", right + "px");
+            }else{
+                $("#top").css("right","0px");
+            }
+            $("#top").show();
+        }else{
+            $("#top").hide();                   
+        }
+    });
+    $("#top").mouseover(function(){
+        $(this).children("a").html("回到<br />顶部").css("font-size","13px");
+    }).mouseout(function(){
+        $(this).children("a").html("<img src=\"http://img.ylq.com/statics/images/r_top.png\"/>")
+    })
+})
+</script>
+</body>
+</html>

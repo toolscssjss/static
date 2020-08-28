@@ -1,0 +1,91 @@
+body {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+}
+
+.left {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px 0;
+  text-align: center;
+  border: 1px solid #000;
+}
+
+.right {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+
+dl:nth-child(2) dt {
+  margin-bottom: 20px;
+}
+
+dl:nth-child(2) dt a {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+dl:nth-child(3) {
+  margin-left: 2em;
+  margin-bottom: 30px;
+}
+
+dl:nth-child(3) dd span {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+dl:nth-child(4) dt {
+  margin-bottom: 20px;
+}
+
+dl:nth-child(4) dt a {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+dl:nth-child(4) dd {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%!important;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+dl:nth-child(4) dd span {
+  margin-bottom: 10px;
+  width: 33%;
+  text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+  .left {
+    border: 0;
+  }
+
+  .right {
+    border: 0;
+  }
+
+  dl:nth-child(4) dd {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%!important;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  dl:nth-child(4) dd span {
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: left;
+  }
+}
